@@ -2,3 +2,5 @@ node_modules
 temp
 build
 examples
+bower_components/*
+.idea/*
