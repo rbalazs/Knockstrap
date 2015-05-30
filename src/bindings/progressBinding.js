@@ -3,6 +3,7 @@
         css: 'progress',
         text: '',
         textHidden: true,
+        percentageSignVisible: true,
         striped: false,
         type: '',
         animated: false

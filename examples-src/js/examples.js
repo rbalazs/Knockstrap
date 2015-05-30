@@ -124,6 +124,8 @@ function ProgressExampleViewModel() {
     
     // for number as modal
     this.progress = ko.observable(20);
+
+    this.percentageSignVisible = ko.observable(true);
 }
 
 function ExamplesViewModel() {
